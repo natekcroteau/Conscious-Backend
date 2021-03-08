@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: MyString
+  user: one
+  entry1: MyString
+  entry2: MyString
+  entry3: MyString
+  entry4: MyString
+  entry5: MyString
+  entry6: MyString
+
+two:
+  date: MyString
+  user: two
+  entry1: MyString
+  entry2: MyString
+  entry3: MyString
+  entry4: MyString
+  entry5: MyString
+  entry6: MyString
