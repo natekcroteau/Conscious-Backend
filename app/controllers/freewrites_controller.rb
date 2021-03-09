@@ -14,7 +14,7 @@ class FreewritesController < ApplicationController
 private
 
   def freewrite_params
-    params.require(:freewrites).permit(:date, :time, :entry, :user_id)
+    params.require(:freewrites).permit(:date, :entry, :user_id)
   end
 
 
