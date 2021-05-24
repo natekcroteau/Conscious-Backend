@@ -102,7 +102,7 @@ Project functions as intended with expansion to features planned.
 ## Inspiration
 Wellness is part physical and part mental, to which finding balance in exercising both aspects can be difficult and nuanced. CONSCIOUS is an application combinining valuable writing practices that exercise mental wellbeing.
 
-##Repositories:
+## Repositories:
 github.com/natekcroteau/Conscious-Frontend
 
 github.com/natekcroteau/Conscious-Backend
