@@ -96,7 +96,7 @@ const login = () => {
 
 
 ## Status
-Project functions as intended with expansion to features planned.
+Project functions as intended with expansion of features planned.
 
 
 ## Inspiration
